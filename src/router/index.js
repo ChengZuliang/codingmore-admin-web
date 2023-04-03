@@ -68,7 +68,7 @@ export const pageRouters = [
     component: mainFrame,
     icon: 'el-icon-s-help', // el-icon-s-help
     meta: {
-      title: '内容管理'
+      title: 'API组合推荐系统'
     },
     children: [
       {
@@ -95,7 +95,7 @@ export const pageRouters = [
         icon: 'iconpark-list-two',
         component: articles,
         meta: {
-          title: '文章列表'
+          title: 'API管理'
         }
       },
       {
